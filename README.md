@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/krishnpatil3)
-- [Email(mailto: parilkrishna21@example.com)
+- [Email](mailto: parilkrishna21@example.com)
