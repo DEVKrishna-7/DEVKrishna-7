@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - [Chatbot with Streamlit](https://github.com/yourusername/chatbot-streamlit)
 - [Portfolio Website](https://github.com/yourusername/portfolio-website)
 
-<!--## GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## Connect With Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com) -->
+- [LinkedIn](https://linkedin.com/in/krishnpatil3)
+- [Email](mailto: parilkrishna21@example.com) 
