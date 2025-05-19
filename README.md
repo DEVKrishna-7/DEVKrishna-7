@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Krishna! 👋💻
 
-![Krishna Banner](https://your-image-link-here.com) <!-- Optional: Add a personal illustration or banner -->
+![Krishna Banner](https://drive.google.com/file/d/1WmUHpKD_MLGdppsdh9SRY5BQYxflahU-/view?usp=drivesdk) <!-- Optional: Add a personal illustration or banner -->
 
 **KRISHNA**  
 Python Developer | Web Development Consultant | Tech Educator  
