@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - [Portfolio Website](https://github.com/yourusername/portfolio-website)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVKrishna-7&show_icons=true)
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/krishnpatil3)
