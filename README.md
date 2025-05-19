@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Krishna!  
+**Python Developer | Django | ML | Web Automation**
+
+## About Me
+- I build full-stack web apps using Django & Flask
+- Love solving real-world problems using Python & AI
+- Open to freelance and full-time opportunities
+
+## Tech Stack
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Django, Flask, Streamlit
+- **Databases**: PostgreSQL, SQLite
+- **Tools**: Git, VSCode, Docker, Postman
+
+## Projects
+- [Ecommerce Store](https://github.com/yourusername/ecommerce-django-store)
+- [Chatbot with Streamlit](https://github.com/yourusername/chatbot-streamlit)
+- [Portfolio Website](https://github.com/yourusername/portfolio-website)
+
+<!--## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Email](mailto:youremail@example.com) -->
