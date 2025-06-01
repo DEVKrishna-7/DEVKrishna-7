@@ -36,8 +36,7 @@ In 2025, I started working on an AI-powered chatbot and also began writing a boo
 ---
 
 ### Find me around the web 🌍:
-
-- Learning in public on [monica.dev](https://monica.dev) or [Twitch](https://twitch.tv/yourchannel)  
+  
 - Tinkering with frontend on [Codepen](https://codepen.io/yourprofile)  
 - Sharing thoughts on [LinkedIn](https://linkedin.com/in/yourprofile)  
 - Building projects on [GitHub](https://github.com/yourusername)  
