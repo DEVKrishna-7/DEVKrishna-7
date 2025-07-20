@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Krishna Banner](https://drive.google.com/file/d/1WmUHpKD_MLGdppsdh9SRY5BQYxflahU-/view?usp=drivesdk) <!-- Optional: Add a personal illustration or banner -->
 
 **KRISHNA**  
-Python Developer | Web Development Consultant | Tech Educator  
+Python Developer | Fullstack Developer | Tech Educator  
 
 I'm a passionate Python developer dedicated to building scalable web applications and empowering the tech community. I love solving real-world problems through clean, maintainable code and user-friendly design.  
 I specialize in:
