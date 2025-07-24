@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Banner / Logo -->
+<!-- Professional & Simple Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/986277999?s=400" width="120" alt="DEVKrishna-7 Logo"/>
+  <img https://www.canva.com/design/DAGuD-nfaZc/KYtkqPPIvOMnia3fzsG4vw/edit?utm_content=DAGuD-nfaZc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton Align=50" alt="Krishna Banner"/>
 </p>
 
 <h1 align="center">Welcome to DEVKrishna-7 🚀</h1>
