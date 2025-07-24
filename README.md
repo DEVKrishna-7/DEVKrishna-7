@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- Professional & Simple Banner -->
 <p align="center">
-  <img https:"https://www.canva.com/design/DAGuD-nfaZc/KYtkqPPIvOMnia3fzsG4vw/edit?utm_content=DAGuD-nfaZc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonAlign=50" alt="Krishna Banner"/>
+  <img https:"https://www.canva.com/design/DAGuD-nfaZc/KYtkqPPIvOMnia3fzsG4vw/edit?utm_content=DAGuD-nfaZc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Krishna Banner"/>
 </p>
 
 <h1 align="center">Welcome to DEVKrishna-7 🚀</h1>
